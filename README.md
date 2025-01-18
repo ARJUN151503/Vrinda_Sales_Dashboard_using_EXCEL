@@ -36,7 +36,7 @@
 - As per taken Above sample questions shows the highest sales in months?
 - So Again inserting new column named as "Month" that shows the "Month Name"
 - Use Text(Values,Format_text) function --> =TEXT(G2,"mmmm") # using "mmm" it shows "JAN", using "mmmm" shows "January" use as per your work.
-- After check all the data its enough for preprocessing if need we make more as per requirements its done🎊🎊.
+- After check all the data its enough for preprocessing if need make more than above but as per requirements its done🎊🎊.
 
 ## Data Analysis
 
