@@ -27,3 +27,6 @@
 - Next check each and every column for any cleaning occurs.
 - At *Qty* column contains *One and Two* instead of 1,2,3... .So, do the same procedure for the this column also.
 - Finally, all the remaining columns are well and no inconsistance data occured. So, Our data cleaning is Done 🎉🎉 
+
+## Data Preprocessing
+
