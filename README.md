@@ -30,3 +30,11 @@
 
 ## Data Preprocessing
 
+- This one of important step for data
+- Now in dataset insert extra column as *"Age Group"* after age column that shows the who are *"senior,Adult or Teenager"*
+- By using Nested IF() or IF() function --> =IF(E2>=50,"Senior",IF(E2>=30,"Adult","Teenager"))
+  ### Note: To Create the new column use *"shift + Alt + I + C"* if it not work use *"Alt + I + C"*
+- As per taken Above sample questions shows the highest sales in months?
+- So Again inserting new column named as "Month" that shows the "Month Name"
+- Use Text(Values,Format_text) function --> =TEXT(G2,"mmmm") # using "mmm" it shows "JAN", using "mmmm" shows "January" use as per your work.
+- 
