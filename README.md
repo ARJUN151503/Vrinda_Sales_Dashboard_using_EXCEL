@@ -16,3 +16,11 @@
 6. Relation between age and gender based on number of orders.
 7. Which channel is contributing to maximum sales?
 8. Highest Selling Category? etc...
+
+## Data Cleaning
+
+- Open the Dataset and observe the coulmns and rows to undertand.
+- Apply filters for all columns. Go to Data >> Filter >> click it.
+- In first and second column doesn't have any unknown or improper data.
+- But in third column it has *" M, W, Men, Women "*. To change it into either char like *"M and W"* or *"Men and Women"*.
+- Filter the gender column by selecting *M* and open find and replace using CTRL + F and replace with *Men*.
