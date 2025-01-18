@@ -40,3 +40,8 @@
 
 ## Data Analysis
 
+- First Create a Pivot table. In a new sheet it appears with PivotTable Fields and blank Pivot
+- Now Drag and drop the columns "Amount","orderID" in values and "Month" in Rows. Make sure that Amount should be in "SUM" and OrderId in "Count".
+- Here "Total sales" need so taken "Sum of Amount".
+
+#### See You tomorrow........:)
