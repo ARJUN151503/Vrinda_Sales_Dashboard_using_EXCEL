@@ -4,7 +4,7 @@
 
 - Vrinda Store wants to create an annual sales report for 2022. So that,Vrinda can understand their customers and grow more sales in 2023.
 
-- dataset link: https://bit.ly/3X381ok (Direct Download)
+- dataset link: [Vrinda Store Data Analysis.xlsx](https://github.com/user-attachments/files/18464177/Vrinda.Store.Data.Analysis.xlsx)
 
 ## Sample Questions
 
@@ -25,5 +25,5 @@
 - But in third column it has *" M, W, Men, Women "*. To change it into either char like *"M and W"* or *"Men and Women"*.
 - Filter the gender column by selecting *M* and open find and replace using CTRL + F and click on replace replace with *Men* and do same for *Women* also.
 - Next check each and every column for any cleaning occurs.
-- At *Qty* column contains *One and Two* instead of 1,2,3... .So do the same procedure for the this column also.
-- Finally, all the remaining columns are well and no inconsitance data occured. So, Our data cleaning is Done 🎉🎉 
+- At *Qty* column contains *One and Two* instead of 1,2,3... .So, do the same procedure for the this column also.
+- Finally, all the remaining columns are well and no inconsistance data occured. So, Our data cleaning is Done 🎉🎉 
