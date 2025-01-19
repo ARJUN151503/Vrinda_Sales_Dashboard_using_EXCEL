@@ -44,7 +44,7 @@
 - Now Drag and drop the columns "Amount","orderID" in values and "Month" in Rows. Make sure that Amount should be in "SUM" and OrderId in "Count".
 - Here "Total sales" need so taken "Sum of Amount".
 - Then the pivot table look like this:
-  ![Pivot Table 1](https://github.com/user-attachments/assets/e7592660-2ef4-46bb-9d6f-dd642b4f1616)
+    ![Pivot Table 1](https://github.com/user-attachments/assets/e7592660-2ef4-46bb-9d6f-dd642b4f1616)
 - Now create a pivot chart based on the pivot table.
   #### Combo Chart:
   Here based on pivot table using pivot combo chart. Steps follows:
@@ -55,8 +55,7 @@
   5. Now combo chart is displayed.
   6. To remove column names in chart, Go to PivotChart Analyze tab >> click on Field Buttons >> click hide all. (If want make some changes....)
   7. Here the final output:
-     ![Order Vs Sales by Month](https://github.com/user-attachments/assets/2aebd22f-a5c1-48ab-8841-6e9183b69719)
-- 
+       ![Order Vs Sales by Month](https://github.com/user-attachments/assets/2aebd22f-a5c1-48ab-8841-6e9183b69719)
 
   
 
