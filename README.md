@@ -17,6 +17,11 @@
 7. Which channel is contributing to maximum sales?
 8. Highest Selling Category? etc...
 
+## Dashboard
+
+  ![Vrinda Dashboard](https://github.com/user-attachments/assets/f5b773fd-3fc1-4095-8739-189e473f0fbf)
+
+
 ## Data Cleaning
 
 - Open the Dataset and observe the coulmns and rows to undertand.
@@ -45,7 +50,7 @@
 - Here "Total sales" need so taken "Sum of Amount".
 - Then the pivot table look like this:
   
-    ![Pivot Table 1](https://github.com/user-attachments/assets/e7592660-2ef4-46bb-9d6f-dd642b4f1616)
+    ![sample Pivot Table](https://github.com/user-attachments/assets/e7592660-2ef4-46bb-9d6f-dd642b4f1616)
 - Now create a pivot chart based on the pivot table.
   #### Combo Chart:
   Here based on pivot table using pivot combo chart. Steps follows:
@@ -57,18 +62,47 @@
   6. To remove column names in chart, Go to PivotChart Analyze tab >> click on Field Buttons >> click hide all. (If want make some changes....)
   7. Here the final output:
 
-- like this complete all the remaining requirements given by stackholders and clients...
-
-## Final Outcome of Dashboard
-
-  - ![Vrinda Dashboard](https://github.com/user-attachments/assets/f5b773fd-3fc1-4095-8739-189e473f0fbf)
-
+- like this complete all the remaining requirements given by stackholders and clients by using various charts and designs.
 
 ## Insights
-
-  - Women are more likely to buy compared to men (~65%)
-  - Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (-35%)
-  - Adult age group (30-49 yrs) is max contributing (~50%)
-  - Amazon, Flipkart and Myntra channels are max contributing (~80%)
-  - Final Conclusion to improve Vrinda store sales:
-  - Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra
+    ####📊 Business Recommendations For Growth
+    
+            1️⃣ Optimize Sales Strategy Based on Seasonal Trends
+            📌 Observation: Sales peak from February to April and decline after June.
+            ✅ Recommendation:
+                - Launch seasonal discounts and marketing campaigns in Q3 & Q4 to boost sales.
+                - Offer festive promotions before the holiday season (November-December) to increase year-end sales.
+                
+            2️⃣ Target Women-Centric Marketing Strategies
+            📌 Observation: Women account for 64% of purchases, making them the primary customers.
+            ✅ Recommendation:
+                - Focus on women-centric advertising (fashion, beauty, lifestyle).
+                - Personalized offers and loyalty programs for female shoppers.
+                - Use social media influencers to engage more women buyers.
+                
+            3️⃣ Expand Sales in Low-Performing States
+            📌 Observation: Maharashtra, Karnataka, and Uttar Pradesh lead in sales, but Haryana and Andhra Pradesh have the lowest numbers.
+            ✅ Recommendation:
+                - Increase regional promotions in low-performing states.
+                - Partner with local influencers or sellers to attract more customers.
+                - Offer free shipping or extra discounts in underperforming regions.
+                
+            4️⃣ Reduce Order Cancellations & Returns
+            📌 Observation: 844 orders canceled, 517 refunded, and 1,045 returned.
+            ✅ Recommendation:
+                - Improve product descriptions, images, and size guides to reduce incorrect orders.
+                - Offer better customer support and easy exchange policies to prevent cancellations.
+                - Provide loyalty incentives to customers who have fewer returns.
+                
+            5️⃣ Strengthen Adult & Teenager Engagement
+            📌 Observation: Adults contribute the most sales (34.59% women, 15.47% men).
+            ✅ Recommendation:
+                - Introduce subscription plans, membership discounts, or referral bonuses for adults.
+                - Create youth-focused promotions on trending products for teenagers.
+                
+            6️⃣ Expand Presence on Top-Performing E-commerce Channels
+            📌 Observation: Amazon (35%) and Flipkart (22%) dominate orders, while Ajio, Meesho, Myntra, and Nalli have lower sales.
+            ✅ Recommendation:
+                - Invest more in Amazon & Flipkart ads since they drive the most sales.
+                - Partner with Meesho & Myntra to attract budget-conscious buyers and fashion-focused customers.
+                - Offer exclusive product launches on lesser-used platforms (Ajio, Nalli) to increase engagement.
