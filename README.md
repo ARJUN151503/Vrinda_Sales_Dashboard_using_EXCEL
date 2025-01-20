@@ -56,9 +56,19 @@
   5. Now combo chart is displayed.
   6. To remove column names in chart, Go to PivotChart Analyze tab >> click on Field Buttons >> click hide all. (If want make some changes....)
   7. Here the final output:
-     
-       ![Order Vs Sales by Month](https://github.com/user-attachments/assets/2aebd22f-a5c1-48ab-8841-6e9183b69719)
 
-  
+- like this complete all the remaining requirements given by stackholders and clients...
 
-#### Not yet complete Continues....
+## Final Outcome of Dashboard
+
+  - ![Vrinda Dashboard](https://github.com/user-attachments/assets/f5b773fd-3fc1-4095-8739-189e473f0fbf)
+
+
+## Insights
+
+  - Women are more likely to buy compared to men (~65%)
+  - Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (-35%)
+  - Adult age group (30-49 yrs) is max contributing (~50%)
+  - Amazon, Flipkart and Myntra channels are max contributing (~80%)
+  - Final Conclusion to improve Vrinda store sales:
+  - Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra
