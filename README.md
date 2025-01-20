@@ -65,7 +65,7 @@
 - like this complete all the remaining requirements given by stackholders and clients by using various charts and designs.
 
 ## Insights
-    ####📊 Business Recommendations For Growth
+    #### 📊 Business Recommendations For Growth
     
             1️⃣ Optimize Sales Strategy Based on Seasonal Trends
             📌 Observation: Sales peak from February to April and decline after June.
